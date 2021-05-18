@@ -1,0 +1,54 @@
+
+Passenger Name: methma
+Seat Number: 3
+Waiting Time: 9
+Passenger Name: nimna
+Seat Number: 4
+Waiting Time: 5
+Passenger Name: amma
+Seat Number: 12
+Waiting Time: 10
+Passenger Name: thiran
+Seat Number: 20
+Waiting Time: 10
+Passenger Name: rashmi
+Seat Number: 25
+Waiting Time: 8
+
+Maximum length of train queue: 5
+Maximum waiting time: 42
+Average waiting time: 8
+
+Passenger Name: methma
+Seat Number: 3
+Waiting Time: 8
+Passenger Name: nimna
+Seat Number: 4
+Waiting Time: 12
+Passenger Name: amma
+Seat Number: 12
+Waiting Time: 11
+
+Maximum length of train queue: 3
+Maximum waiting time: 31
+Average waiting time: 10
+
+Passenger Name: methma
+Seat Number: 3
+Waiting Time: 9
+Passenger Name: nimna
+Seat Number: 4
+Waiting Time: 13
+Passenger Name: amma
+Seat Number: 12
+Waiting Time: 9
+Passenger Name: thiran
+Seat Number: 20
+Waiting Time: 12
+Passenger Name: rashmi
+Seat Number: 25
+Waiting Time: 13
+
+Maximum length of train queue: 5
+Maximum waiting time: 56
+Average waiting time: 11
